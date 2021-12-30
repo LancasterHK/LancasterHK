@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LancasterHK
+- 👀 I’m interested in java,c++
+- 🌱 I’m currently learning java
